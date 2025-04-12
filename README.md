@@ -37,7 +37,7 @@ El diagrama de bloques del circuito se compone de los siguientes elementos:
 - **Sumador en Cascada:** Se realiza la suma entre A y B (o su complemento) utilizando el módulo `ripple_adder_4bit`.
 - **Salida S (4 bits) y acarreo de salida `Cout`:** Se obtienen los resultados finales de la operación aritmética.
 
-![Diagrama del Circuito](Juand\Downloads.png)
+![image.jpeg](SUMADOR-RESTADOR.jpeg)
 
 
 ## Archivos del Proyecto
